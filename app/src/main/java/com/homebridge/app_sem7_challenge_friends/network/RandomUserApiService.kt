@@ -1,5 +1,6 @@
 package com.homebridge.app_sem7_challenge_friends.network
 
+import com.homebridge.app_sem7_challenge_friends.communication.ApiResponse
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query
